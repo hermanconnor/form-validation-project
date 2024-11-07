@@ -2,8 +2,6 @@
   Base and header styles
 ==================================== */
 
-@import url('https://fonts.googleapis.com/css?family=Nunito|Roboto+Mono');
-
 * {
   box-sizing: border-box;
 }
@@ -115,7 +113,7 @@ select {
 input,
 select,
 option {
-  font-family: 'roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   transition: all 0.3s ease-out;
 }
 
@@ -153,6 +151,7 @@ input[type='checkbox']:disabled {
 }
 
 select {
+  appearance: none;
   -webkit-appearance: none;
   -webkit-border-radius: 0px;
   font-size: 1em;
@@ -329,7 +328,7 @@ button:hover {
 }
 
 .activities-box {
-  font-family: 'roboto', sans-serif;
+  font-family: 'Roboto', sans-serif;
   max-width: 100%;
   border-radius: 3px;
   border: 1px solid transparent;
