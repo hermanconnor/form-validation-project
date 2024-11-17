@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a vanilla JavaScript application that demonstrates form validation techniques for a registration form. It includes validation for various input fields such as name, email, activities, and payment details. This was my 3rd project in the Treehouse full stack JavaScript techdegree. The main focus of this project was to implement concepts we learned. For this project, traversing DOM elements was the concept.
+This project is a vanilla JavaScript application that demonstrates form validation techniques for a registration form. It includes validation for various input fields such as name, email, activities, and payment details. This was my 3rd project in the [Treehouse](https://teamtreehouse.com/) full stack JavaScript techdegree. The main focus of this project was to implement concepts we learned. For this project, traversing DOM elements was the concept.
 
 ## Features
 
